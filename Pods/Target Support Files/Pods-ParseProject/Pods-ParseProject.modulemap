@@ -1,0 +1,6 @@
+framework module Pods_ParseProject {
+  umbrella header "Pods-ParseProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
